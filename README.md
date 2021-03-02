@@ -1,2 +1,2 @@
-# pytorch-lightning-image-classification
-PyTorch Lightning Image CLassification
+# PyTorch Lightning Image Classification
+
